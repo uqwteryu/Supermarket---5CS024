@@ -1,2 +1,5 @@
 # Supermarket---5CS024
 An e-commerce supermarket C# program designed to facilitate online shopping, featuring product browsing, a shopping cart, user authentication, and payment processing.
+
+Description:
+An e-commerce supermarket C# program developed as a group assignment, designed to simulate the functionalities of an online shopping platform. This educational project includes features such as product browsing, where users can view a catalog of items; a shopping cart system for adding and managing selections; user authentication to ensure secure access; and a mock payment processing module to simulate transactions. The application is built using C# to demonstrate software development skills in a team environment, focusing on object-oriented programming principles, database integration for inventory management, and user interface design for an intuitive shopping experience. It's crafted for academic purposes, showcasing practical application of coding concepts and teamwork, and is not intended for deployment in a real-world e-commerce setting.
