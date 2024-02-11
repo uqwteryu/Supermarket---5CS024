@@ -11,7 +11,7 @@ We prioritize the security of our project by actively maintaining security updat
 | 10.0.x  | :white_check_mark: |
 | < 10.0  | :x:                |
 
-We strongly encourage users to upgrade to the latest supported versions (5.1.x and 4.0.x) to ensure protection against known security vulnerabilities.
+We strongly encourage users to upgrade to the latest supported versions (ideally 12.0.x or 11.0.x) to ensure protection against known security vulnerabilities.
 
 ## Reporting a Vulnerability
 
