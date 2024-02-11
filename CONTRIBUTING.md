@@ -6,8 +6,8 @@ We're thrilled you're considering contributing to our project! Contributions mak
 
 Bugs are tracked as GitHub issues. To report a bug, please follow these steps:
 
-1. **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/your_username/Supermarket---5CS024/issues).
-2. If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/your_username/Supermarket---5CS024/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
+1. **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/uqwteryu/Supermarket---5CS024/issues).
+2. If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/uqwteryu/Supermarket---5CS024/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
 ## Suggesting Enhancements
 
@@ -33,7 +33,7 @@ Participants in the project must adhere to our [Code of Conduct](CODE_OF_CONDUCT
 
 ## Any Questions?
 
-If you have any questions on how to proceed with an issue or pull request, [open an issue](https://github.com/your_username/Supermarket---5CS024/issues/new) and we'll be happy to help.
+If you have any questions on how to proceed with an issue or pull request, [open an issue](https://github.com/uqwteryu/Supermarket---5CS024/issues/new) and we'll be happy to help.
 
 ## Acknowledgments
 
