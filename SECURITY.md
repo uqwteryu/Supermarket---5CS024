@@ -5,11 +5,11 @@
 We prioritize the security of our project by actively maintaining security updates for specific versions. The table below details the versions of our project that are currently eligible for security updates:
 
 | Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+|---------|--------------------|
+| 12.0.x  | :white_check_mark: |
+| 11.0.x  | :white_check_mark: |
+| 10.0.x  | :white_check_mark: |
+| < 10.0  | :x:                |
 
 We strongly encourage users to upgrade to the latest supported versions (5.1.x and 4.0.x) to ensure protection against known security vulnerabilities.
 
